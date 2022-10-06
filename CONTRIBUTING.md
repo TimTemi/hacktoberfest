@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Flourish Oke](https://github.com/TimTemi)
+
+- Place: Jos, Plateau, Nigeria
+- Bio: Computer science student, Software developer
+- GitHub: [Flourish Oke](https://github.com/TimTemi)
